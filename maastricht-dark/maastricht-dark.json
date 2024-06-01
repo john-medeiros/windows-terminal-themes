@@ -1,0 +1,27 @@
+{
+    "background": "#011627",
+    "black": "#1D2021",
+    "blue": "#083D77",
+    "brightBlack": "#4B5054",
+    "brightBlue": "#2274A5",
+    "brightCyan": "#2C8DAD",
+    "brightGreen": "#29BB89",
+    "brightPurple": "#A64AC9",
+    "brightRed": "#E83A14",
+    "brightWhite": "#E5E5E5",
+    "brightYellow": "#F7C548",
+    "cursorColor": "#FFFFFF",
+    "cyan": "#3B7080",
+    "foreground": "#D1DEE8",
+    "green": "#0F9960",
+    "name": "Maastricht Dark",
+    "purple": "#564787",
+    "red": "#D13913",
+    "selectionBackground": "#FFFFFF",
+    "white": "#F5F8FA",
+    "yellow": "#D9822B"
+}
+
+
+
+%USERPROFILE%
